@@ -1,3 +1,5 @@
+## 23-react1
+
 ## 권유현 
 
 ## 3주차 3.16 
@@ -30,9 +32,7 @@ npm , yarn 등 글로벌 패키지를 설치하지 않고 사용가능.
 
 
 
-23-React1
-
-0309 edit. edit after class > Can I svae this ment?//
+## 2주차 3.09
 
 깃허브 쉘 명령어 정리 i)git -v ii)git --version iii)깃허브 레파지토리 클론하기: git clone <깃허브주소>
 
